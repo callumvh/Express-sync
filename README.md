@@ -1,4 +1,4 @@
-# Express-sync
+# Express-sync(A Powershell script)
 Synchronize a directory with specific items of a larger directory without having to search the larger directory manually.
 
 This may seem confusing but it is really simple and I could not find an application to do this task for me.
